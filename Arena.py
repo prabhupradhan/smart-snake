@@ -2,7 +2,7 @@ import random
 import pygame
 import colors as col
 
-
+#creating environment
 class Arena:
     def __init__(self, width, height, block):
         self.height = height
