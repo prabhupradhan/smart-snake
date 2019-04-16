@@ -1,4 +1,4 @@
-# AI plays snake game
+# Making snake game agent smarter
 Neural Network Trained using Genetic Algorithm which acts as the brain for the snake.
 
 The snake looks in the 8 direction for food, body part and the boundary which acts as the 24 input for the Neural Network.
