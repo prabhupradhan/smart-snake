@@ -8,7 +8,7 @@ from input import *
 import time
 
 
-# used to show the progress bar
+#used to show the progress bar
 def progress_bar(curr, total, length):
     frac = curr/total
     filled_bar = round(frac*length)
